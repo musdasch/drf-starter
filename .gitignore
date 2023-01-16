@@ -1,0 +1,29 @@
+*.orig
+.env
+.python-version
+*.pyc
+.~lock*
+
+# dependencies
+/node_modules/
+
+# misc
+/.env*
+/.pnp*
+/.sass-cache
+/.eslintcache
+/connect.lock
+/coverage/
+/libpeerconnection.log
+/npm-debug.log*
+/testem.log
+/yarn-error.log
+
+# System
+.directory
+
+# Editors
+/.vscode/*
+!/.vscode/launch.json
+*.swp
+*.swo
