@@ -27,3 +27,6 @@
 !/.vscode/launch.json
 *.swp
 *.swo
+
+*.sublime-project
+*.sublime-workspace
